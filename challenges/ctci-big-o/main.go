@@ -12,43 +12,7 @@ import (
 // Complete the primality function below.
 //
 // Time: O(√n) because loop constraints the incrementor to be smaller than square root of n.
-// Space: O(n) because there's a slice of size n+1 to keep track of already calculated visited numbers.
-//
-// This exercise is filled with off-by-one potential errors.
-//
-// This algorithm can be simplified greatly by just checking if the modulus of every number leading up to √n is == 0,
-// but modulus is much more expensive than multiplication, because division cannot be efficiently parallelised and
-// requires bounds checking.
-// func primality(n int32) string {
-// 	if n == 1 {
-// 		return "Not prime"
-// 	}
-// 	if n <= 3 {
-// 		return "Prime"
-// 	}
-// 	visited := make([]bool, n+1)
-// 	multiplier := 2
-// 	// A multiplier whose square is greater than n will only visit already visited numbers < n. There's no intuitive
-// 	// reason for this other than the fact that I learned this by experience while learning Sieve of Eratosthenes.
-// 	for multiplier*multiplier <= int(n) {
-// 		// This runs Eratosthenes on the current multiplier. Only needs to run from the square of every multiplier,
-// 		// because smaller numbers will already be visited by earlier multipliers.
-// 		for i := multiplier * multiplier; i <= int(n); i += multiplier {
-// 			if i == int(n) { // If we visit n as a multiple of the multiplier, it's not a prime
-// 				return "Not prime"
-// 			}
-// 			visited[i] = true
-// 		}
-
-// 		// The current multiplier has been visited already, but possibly hasn't been marked visited
-// 		multiplier++
-
-// 		// It's not necessary to run Eratosthenes on numbers that have already been visited
-// 		for ; multiplier*multiplier <= int(n) && visited[multiplier]; multiplier++ {
-// 		}
-// 	}
-// 	return "Prime"
-// }
+// Space: O(1)
 func primality(n int32) string {
 	if n == 1 {
 		return "Not prime"
