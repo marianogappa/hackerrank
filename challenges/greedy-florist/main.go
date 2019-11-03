@@ -12,9 +12,23 @@ import (
 )
 
 // Complete the getMinimumCost function below.
+// Time: O(n*logn)
+// Space: O(1)
+//
+// First sort the prices descending, because it's cheaper to buy the most expensive
+// flowers without multipliers.
+//
+// The k friends will buy flowers in i iterations of k purchases (first for-loop).
+// The second for-loop calculates the sum of the batch.
+//
+// Careful not to exceed the len of the slice in the second for-loop.
 func getMinimumCost(k int32, c []int32) int32 {
+	// Time: O(n*logn)
+	// Space: O(1)
 	sort.Slice(c, func(i, j int) bool { return c[i] > c[j] })
 
+	// Time: O(n)
+	// Space: O(1)
 	var total int32
 	for i := 1; i <= int(math.Ceil(float64(len(c))/float64(k))); i++ {
 		var acc int32
