@@ -1,4 +1,4 @@
-## Hackerrank exercises (42 solved)
+## Hackerrank exercises (43 solved)
 
 |Title|Hackerrank|My Solution|
 |-----|:--------:|:---------:|
@@ -23,6 +23,7 @@
 |Ctci recursive staircase|[[Link]](https://www.hackerrank.com/challenges/ctci-recursive-staircase)|[[Link]](challenges/ctci-recursive-staircase)|
 |Find the merge point of two joined linked lists|[[Link]](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists)|[[Link]](challenges/find-the-merge-point-of-two-joined-linked-lists)|
 |Flipping bits|[[Link]](https://www.hackerrank.com/challenges/flipping-bits)|[[Link]](challenges/flipping-bits)|
+|Friend circle queries|[[Link]](https://www.hackerrank.com/challenges/friend-circle-queries)|[[Link]](challenges/friend-circle-queries)|
 |Greedy florist|[[Link]](https://www.hackerrank.com/challenges/greedy-florist)|[[Link]](challenges/greedy-florist)|
 |Insert a node at a specific position in a linked list|[[Link]](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list)|[[Link]](challenges/insert-a-node-at-a-specific-position-in-a-linked-list)|
 |Insert a node into a sorted doubly linked list|[[Link]](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list)|[[Link]](challenges/insert-a-node-into-a-sorted-doubly-linked-list)|
