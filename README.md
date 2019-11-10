@@ -1,4 +1,4 @@
-## Hackerrank exercises (46 solved)
+## Hackerrank exercises (47 solved)
 
 |Title|Hackerrank|My Solution|
 |-----|:--------:|:---------:|
@@ -46,6 +46,7 @@
 |Special palindrome again|[[Link]](https://www.hackerrank.com/challenges/special-palindrome-again)|[[Link]](challenges/special-palindrome-again)|
 |Swap nodes algo|[[Link]](https://www.hackerrank.com/challenges/swap-nodes-algo)|[[Link]](challenges/swap-nodes-algo)|
 |Tree height of a binary tree|[[Link]](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree)|[[Link]](challenges/tree-height-of-a-binary-tree)|
+|Tree huffman decoding|[[Link]](https://www.hackerrank.com/challenges/tree-huffman-decoding)|[[Link]](challenges/tree-huffman-decoding)|
 |Triple sum|[[Link]](https://www.hackerrank.com/challenges/triple-sum)|[[Link]](challenges/triple-sum)|
 |Two strings|[[Link]](https://www.hackerrank.com/challenges/two-strings)|[[Link]](challenges/two-strings)|
 
