@@ -1,4 +1,4 @@
-## Hackerrank exercises (44 solved)
+## Hackerrank exercises (46 solved)
 
 |Title|Hackerrank|My Solution|
 |-----|:--------:|:---------:|
@@ -6,6 +6,7 @@
 |Alternating characters|[[Link]](https://www.hackerrank.com/challenges/alternating-characters)|[[Link]](challenges/alternating-characters)|
 |Angry children|[[Link]](https://www.hackerrank.com/challenges/angry-children)|[[Link]](challenges/angry-children)|
 |Balanced brackets|[[Link]](https://www.hackerrank.com/challenges/balanced-brackets)|[[Link]](challenges/balanced-brackets)|
+|Binary search tree lowest common ancestor|[[Link]](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor)|[[Link]](challenges/binary-search-tree-lowest-common-ancestor)|
 |Candies|[[Link]](https://www.hackerrank.com/challenges/candies)|[[Link]](challenges/candies)|
 |Common child|[[Link]](https://www.hackerrank.com/challenges/common-child)|[[Link]](challenges/common-child)|
 |Count triplets 1|[[Link]](https://www.hackerrank.com/challenges/count-triplets-1)|[[Link]](challenges/count-triplets-1)|
@@ -16,6 +17,7 @@
 |Ctci bubble sort|[[Link]](https://www.hackerrank.com/challenges/ctci-bubble-sort)|[[Link]](challenges/ctci-bubble-sort)|
 |Ctci fibonacci numbers|[[Link]](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers)|[[Link]](challenges/ctci-fibonacci-numbers)|
 |Ctci ice cream parlor|[[Link]](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)|[[Link]](challenges/ctci-ice-cream-parlor)|
+|Ctci is binary search tree|[[Link]](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree)|[[Link]](challenges/ctci-is-binary-search-tree)|
 |Ctci linked list cycle|[[Link]](https://www.hackerrank.com/challenges/ctci-linked-list-cycle)|[[Link]](challenges/ctci-linked-list-cycle)|
 |Ctci making anagrams|[[Link]](https://www.hackerrank.com/challenges/ctci-making-anagrams)|[[Link]](challenges/ctci-making-anagrams)|
 |Ctci queue using two stacks|[[Link]](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks)|[[Link]](challenges/ctci-queue-using-two-stacks)|
